@@ -1,4 +1,12 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Hiroki1112&style=plastic)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Hiro_archery/posts.svg)](http://qiita.com/Hiro_archery)
+![My Qiita contributions](https://qiita-badge.apiapi.app/s/Hiro_archery/contributions.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki1112&layout=compact)](https://github.com/Hiroki1112/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki1112&hide=contribs,prs)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hiroki1112)](https://github.com/Hiroki1112/github-profile-trophy)
+
 
 <!--
 **Hiroki1112/Hiroki1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...🐾
 -->
