@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki1112&layout=compact)](https://github.com/Hiroki1112/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki1112&hide=contribs,prs)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hiroki1112)](https://github.com/Hiroki1112/github-profile-trophy)
+
 
 
 <!--
